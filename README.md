@@ -1,1 +1,2 @@
-# Logist Regression
+## Logistic Regression
+---
